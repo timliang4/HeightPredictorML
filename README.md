@@ -1,5 +1,8 @@
 # offspring height model
+
 Ridge regression model for predicting offspring height.
+
+## Code
 
 Data from the Galton height dataset. Preprocessed and trained models with scikit-learn pipelines. Fine-tuned model using grid search. Feel free to explore the ```model/offspring_height_project.ipynb``` notebook's contents, as it is well-documented with explanations for most aspects of the model-building process.
 
