@@ -1,6 +1,6 @@
 # HeightPredictorML
 
-Ridge regression model for predicting offspring height.
+Ridge regression model for predicting height from gender and parent data.
 
 Data from the Galton height dataset. Preprocessed and trained models with scikit-learn pipelines. Fine-tuned model using grid search. 
 
