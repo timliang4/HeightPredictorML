@@ -8,5 +8,5 @@ Data from the Galton height dataset. Preprocessed and trained models with scikit
 
 The ```web``` folder contains code for a Flask web API. It is not deployed, as I already have two application deployed and deploying isn't free.
 
-### References
+## References
 * [Galton Height Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T0HSJ1)
