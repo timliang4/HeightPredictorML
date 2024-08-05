@@ -1,7 +1,7 @@
 # offspring height model
 Ridge regression model for predicting offspring height.
 
-Data from the Galton height dataset. Preprocessed and trained models with scikit-learn pipelines. Fine-tuned model using grid search. Achieved mean error of 1.94 inches on the test dataset.
+Data from the Galton height dataset. Preprocessed and trained models with scikit-learn pipelines. Fine-tuned model using grid search. Feel free to explore ``` ``` notebook's contents, as it is well-documented with explanations for most aspects of the model-building process.
 
 Model can be exported from the ```model.pkl``` file.
 
