@@ -1,4 +1,4 @@
-# offspring height model
+# HeightPredictorML
 
 Ridge regression model for predicting offspring height.
 
